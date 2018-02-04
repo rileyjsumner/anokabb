@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ab31544-d28d-49ed-afa5-b39e4863ce2a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/AnokaBaseball/public_html/alumni.html" afterPath="$PROJECT_DIR$/AnokaBaseball/public_html/alumni.html" />
-      <change beforePath="$PROJECT_DIR$/AnokaBaseball/public_html/booster.html" afterPath="$PROJECT_DIR$/AnokaBaseball/public_html/booster.html" />
-      <change beforePath="$PROJECT_DIR$/AnokaBaseball/public_html/contact.html" afterPath="$PROJECT_DIR$/AnokaBaseball/public_html/contact.html" />
-      <change beforePath="$PROJECT_DIR$/AnokaBaseball/public_html/history.html" afterPath="$PROJECT_DIR$/AnokaBaseball/public_html/history.html" />
-      <change beforePath="$PROJECT_DIR$/AnokaBaseball/public_html/index.html" afterPath="$PROJECT_DIR$/AnokaBaseball/public_html/index.html" />
       <change beforePath="$PROJECT_DIR$/AnokaBaseball/public_html/info.html" afterPath="$PROJECT_DIR$/AnokaBaseball/public_html/info.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +36,8 @@
       <file leaf-file-name="info.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AnokaBaseball/public_html/info.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="56" column="32" lean-forward="false" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+            <state relative-caret-position="389">
+              <caret line="58" column="35" lean-forward="false" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -273,12 +267,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517760640335</updated>
-      <workItem from="1517760642543" duration="1717000" />
+      <workItem from="1517760642543" duration="1857000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1717000" />
+    <option name="totallyTimeSpent" value="1857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
@@ -373,8 +367,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AnokaBaseball/public_html/info.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="56" column="32" lean-forward="false" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+        <state relative-caret-position="389">
+          <caret line="58" column="35" lean-forward="false" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
           <folding />
         </state>
       </provider>
